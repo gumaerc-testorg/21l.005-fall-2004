@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 9d06c3a5-ebcb-b39e-4dbc-702826fb9591
 resourcetype: Document
 title: Thesis statement Worksheet
 uid: 0cb35e04-8418-1c07-aec8-f07ebc2fc06f

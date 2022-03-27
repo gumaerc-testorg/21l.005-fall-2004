@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 9d06c3a5-ebcb-b39e-4dbc-702826fb9591
 resourcetype: Document
 title: Death and the King's Horsemen
 uid: b2e73f9a-2c67-b4f9-5d4a-309db8810252

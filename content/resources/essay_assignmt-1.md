@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 9d06c3a5-ebcb-b39e-4dbc-702826fb9591
 resourcetype: Document
 title: 'Research Essay Assignment: some reminders and guidelines '
 uid: 3a1f1e0f-5d20-823d-f5f3-3f53d7f367db

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 2826c701-5a06-5307-91ad-57791eb91d5a
 resourcetype: Document
 title: Introduction to Drama
 uid: 895dfbf7-c25d-f9e0-4c4a-80b4eaac1a29
