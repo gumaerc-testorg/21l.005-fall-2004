@@ -4,6 +4,7 @@ description: This handout contains a list of student theses for correction and r
 file: /courses/21l-005-introduction-to-drama-fall-2004/0cb35e0484181c07aec8f07ebc2fc06f_thesis_worksheet.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
@@ -13,4 +14,3 @@ title: Thesis statement Worksheet
 uid: 0cb35e04-8418-1c07-aec8-f07ebc2fc06f
 ---
 This handout contains a list of student theses for correction and revision.
-

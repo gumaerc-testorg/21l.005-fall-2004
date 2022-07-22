@@ -6,6 +6,7 @@ file: /courses/21l-005-introduction-to-drama-fall-2004/c972b8ebb194324633f68377e
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Death and the King's Horsemen
 uid: c972b8eb-b194-3246-33f6-8377e0fdcd12
 ---
 Student's questions and ideas regarding 'Death and the King's Horseman' were collected and are summarized in this handout.
-
