@@ -1,5 +1,11 @@
 ---
 content_type: page
+description: This section provides videos of two class sessions featuring students'
+  discussion and performance of Luigi Pirandello's Six Characters in Search of an
+  Author and Bertolt Brecht's Galileo.
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 title: Projects
 uid: dd329de1-64d4-cbc5-e4ae-d37c8ff3b3f5
 ---

@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides details on the course textbooks, including links
+  to online versions where available.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 198206ec-d30c-808c-6eee-12e1eed6fc3b
 ---

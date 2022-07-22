@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: 'This syllabus section provides the course description and information
+  on meeting times, textbooks, requirements, grading, and a statement on plagiarism. '
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 7883e4d2-278d-5540-600d-25616109b77e
 ---
