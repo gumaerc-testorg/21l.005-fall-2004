@@ -2,6 +2,7 @@
 content_type: resource
 description: This handout contains a list of student theses for correction and revision.
 file: /courses/21l-005-introduction-to-drama-fall-2004/0cb35e0484181c07aec8f07ebc2fc06f_thesis_worksheet.pdf
+file_size: 10757
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

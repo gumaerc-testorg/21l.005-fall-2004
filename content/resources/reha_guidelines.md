@@ -2,6 +2,7 @@
 content_type: resource
 description: Guidelines and instructions for student performances.
 file: /courses/21l-005-introduction-to-drama-fall-2004/c4183818a1ea634bfd410b7e1bf78702_reha_guidelines.pdf
+file_size: 10046
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
