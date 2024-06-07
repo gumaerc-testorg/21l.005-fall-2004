@@ -2,6 +2,7 @@
 content_type: resource
 description: Guidelines for a research essay assignment.
 file: /courses/21l-005-introduction-to-drama-fall-2004/3a1f1e0f5d20823df5f33f53d7f367db_essay_assignmt.pdf
+file_size: 10224
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
