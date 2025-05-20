@@ -2,7 +2,7 @@
 content_type: resource
 description: Student's questions and ideas regarding 'Death and the King's Horseman'
   were collected and are summarized in this handout.
-file: /ol-ocw-studio-app/courses/21l-005-introduction-to-drama-fall-2004/b2e73f9a2c67b4f95d4a309db8810252_student_question.pdf
+file: /courses/21l-005-introduction-to-drama-fall-2004/b2e73f9a2c67b4f95d4a309db8810252_student_question.pdf
 file_size: 16797
 file_type: application/pdf
 learning_resource_types: []
