@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Instructions, reminders and guidelines for a research essay assignment.
-file: /ol-ocw-studio-app/courses/21l-005-introduction-to-drama-fall-2004/895dfbf7c25df9e04c4a80b4eaac1a29_essay_assignmt.pdf
+file: /courses/21l-005-introduction-to-drama-fall-2004/895dfbf7c25df9e04c4a80b4eaac1a29_essay_assignmt.pdf
 file_size: 10165
 file_type: application/pdf
 learning_resource_types:
