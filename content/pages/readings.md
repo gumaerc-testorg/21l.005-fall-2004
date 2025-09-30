@@ -21,8 +21,8 @@ Online Texts
 
 Online versions of three texts used in this course are available through Project Gutenburg.
 
-[_The Bacchae_ by Euripides](http://www.gutenberg.org/etext/8418).
+{{% resource_link "02accf56-26f8-4b32-ae8e-05a604f9c78d" "_The Bacchae_ by Euripides" %}}.
 
-[_Oedipus_ by Sophocles](http://www.gutenberg.org/etext/31).
+{{% resource_link "7a682f1d-c2a5-487c-83f5-749278dccfca" "_Oedipus_ by Sophocles" %}}.
 
-[_The Tragical History of Doctor Faustus_ by Christopher Marlowe](http://www.gutenberg.org/etext/779).
+{{% resource_link "b7121c12-b6c0-4bdb-ac16-be4db7fb6589" "_The Tragical History of Doctor Faustus_ by Christopher Marlowe" %}}.
