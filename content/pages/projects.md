@@ -15,7 +15,7 @@ During the fall of 2004, two sessions of 21L.005 were recorded especially for Op
 Session 1
 ---------
 
-Video: ({{% resource_link "df7c6f88-102b-4128-8a04-b68fa4fd58e2" "MP4 - 172MB" %}})
+Video: ([MP4 - 172MB](https://archive.org/download/MIT21L.005F04/ocw-21l.005-15nov2004-220k.mp4))
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -160,7 +160,7 @@ Prof. Henderson discusses different interpretations of male and female roles in 
 Session 2
 ---------
 
-Video: ({{% resource_link "0ef67525-2c58-4150-9c88-50b5be9a4e3e" "MP4 - 161MB" %}})
+Video: ([MP4 - 161MB](https://archive.org/download/MIT21L.005F04/ocw-21l.005-22nov2004-220k.mp4))
 
 {{< tableopen >}}
 {{< theadopen >}}
